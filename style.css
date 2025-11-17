@@ -1,0 +1,6 @@
+body { margin:0; padding:0; overflow:hidden; font-family:'Poppins',sans-serif; background:transparent; }
+.widget-container { position:relative; width:600px; height:350px; }
+.candle-area { position:absolute; left:50%; top:55%; transform:translate(-50%,-50%); display:flex; gap:20px; align-items:center; }
+.candle { width:120px; }
+.ghost { width:150px; }
+.song-info { position:absolute; bottom:15px; left:50%; transform:translateX(-50%); font-size:22px; color:white; text-align:center; text-shadow:0 0 8px rgba(255,255,255,0.5); }
